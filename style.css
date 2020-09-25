@@ -1,0 +1,72 @@
+body, html{
+    height:100%;
+    margin:0;
+    font-size:20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight:400;
+    line-height: 1.6em;
+    color:#666;
+  }
+  
+  .img1, .img2, .img3, .img4{
+    position:relative;
+    opacity:0.60;
+    background-position:center;
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+  }
+  
+  .img1{
+    background-image:url('monument-valley.jpg');
+    min-height:100%;
+  }
+  
+  .img2{
+    background-image:url('31515151.png');
+    min-height:500px;
+  }
+  
+  .img3{
+    background-image:url('img1.jpeg.png');
+    min-height:700px;
+  }
+
+  .img4{
+    background-image:url('rowboatphoto.jfif');
+    min-height:500px;
+  }
+  
+  .section{
+    text-align:center;
+    padding:40px 75px;
+    
+  }
+  
+  #thumbnail {
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+  }
+ 
+  
+  .text{
+    position:absolute;
+    top:50%;
+    width:100%;
+    text-align:center;
+    font-size:32px;
+    letter-spacing:12px;
+    text-transform:uppercase;
+  }
+  
+  .text .border{
+    color:white;
+    padding:20px;
+  }
+  
+  .text .border.trans{
+    background-color:transparent;
+  }
+  
+
+  }
+  
