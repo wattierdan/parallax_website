@@ -1,2 +1,2 @@
 # parallax_website
-## just practicing html and css 
+* just practicing html and css 
